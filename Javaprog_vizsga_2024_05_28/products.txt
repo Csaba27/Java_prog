@@ -1,0 +1,6 @@
+1,Laptop,999.99,24,Dell
+1,SmartPhone,599.99,12,Samsung
+1,Tablet,399.99,18,BrandY
+2,Jeans,49.99,L,Blue
+2,T-Shirt,19.99,M,White
+2,Jacket,79.99,XL,Black
